@@ -1,1 +1,2 @@
 test cases should pass
+just a command and directions
